@@ -18,7 +18,7 @@ Berikut adalah laporan resmi untuk pengerjaan Praktikum Modul 4 Subnetting dan R
 ## Dokumentasi Pengerjaan VLSM di CPT
 
 ### Subnetting VLSM
-Menentukan jumlah subnet pada topologi.
+Menentukan rute dan jumlah subnet pada topologi.
 
 ![CIDR-Page-2 drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/1bd27f18-2003-48da-890e-69c87558d3f0)
 
@@ -53,9 +53,19 @@ Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet.
 ## Dokumentasi Pengerjaan CIDR di GNS3
 
 ### Subnetting CIDR
-Menentukan jumlah subnet pada topologi.
+Menentukan rute dan jumlah subnet pada topologi.
 
 ![CIDR-Page-2 drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/1bd27f18-2003-48da-890e-69c87558d3f0)
+
+Setelah menentukan rute dan jumlah subnet, lakukan Penggabungan rute hingga menjadi satu kesatuan agar dapat dibuat pembagian IP CIDR
+
+![gabung3](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/dfd23ad2-60d2-4113-b691-73ab50f23adb)
+
+![gabung2](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/7588c61a-8c3f-483c-9f72-a685fb809170)
+
+![Gabung1](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/9312d4d4-5690-4af8-b0a7-d3653142ab3b)
+
+#### Hasil Penggabungan
 
 ![CIDR drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/823a1954-7bff-4185-9e49-8cb9b7eb20b3)
 
