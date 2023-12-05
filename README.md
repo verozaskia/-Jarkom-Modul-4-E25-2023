@@ -113,7 +113,7 @@ Setelah mendapatkan penggabungan CIDR lakukan pembagian IP untuk CIDR dengan mel
 Dari Tree di atas akan mendapat pembagian IP sebagai berikut
 
 ![a1](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/aae2e2e0-b5a5-4dc3-9fbe-24fcdb79d2d5)
-
-![a2](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/95d7172b-d653-4708-b39e-58d03a757533)
+![a2](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/dd1dce1d-188c-4a70-a5ed-f7085cd2194d)
 
 ## Configuration CIDR
+
