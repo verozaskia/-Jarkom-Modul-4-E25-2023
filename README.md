@@ -13,7 +13,7 @@ Berikut adalah laporan resmi untuk pengerjaan Praktikum Modul 4 Subnetting dan R
 
 ## Topologi
 
-![Screenshot 2023-11-28 235649]([https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/006c5720-ec90-430e-8f5e-d9225b862bf0](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/Screenshot%202023-11-28%20235649.png))
+![Screenshot 2023-11-28 235649](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/Screenshot%202023-11-28%20235649.png)
 
 ## Dokumentasi Pengerjaan VLSM di CPT
 
