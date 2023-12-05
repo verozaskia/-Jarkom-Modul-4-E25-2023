@@ -7,8 +7,8 @@ Berikut adalah laporan resmi untuk pengerjaan Praktikum Modul 4 Subnetting dan R
 | Ketut Arda Putra Mahotama Sadha | 5025211235 |
 
 # Daftar Isi
-[VLSM](#VLSM)
+- [VLSM](#VLSM)
 - [Hasil](#hasil)
-
-[CIDR](#CIDR)
+  
+- [CIDR](#CIDR)
 - [Hasil](#hasil)
