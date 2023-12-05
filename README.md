@@ -538,3 +538,111 @@ iface eth0 inet static
 	netmask 255.255.252.0
 	gateway 10.49.32.1
 ```
+
+### Route Configuration
+
+Berikut adalah konfigurasi routing.
+
+- Fern
+
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.49.8.1	#default A1,A2
+```
+
+- Himmel
+
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.49.20.17	#default A9,A20
+```
+
+- Flamme
+
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.49.20.33	#default A2,A13,A14,A15
+route add -net 10.49.0.0 netmask 255.255.248.0 gw 10.49.8.2		#A1
+route add -net 10.49.20.0 netmask 255.255.255.248 gw 10.49.20.18	#A9
+```
+
+- Frieren
+
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.49.73.45	#default A3,A5,A6
+route add -net 10.49.0.0 netmask 255.255.248.0 gw 10.49.20.34		#A1
+route add -net 10.49.8.0 netmask 255.255.255.252 gw 10.49.20.34		#A2
+route add -net 10.49.16.0 netmask 255.255.252.0 gw 10.49.20.34		#A4
+route add -net 10.49.20.0 netmask 255.255.255.248 gw 10.49.20.34	#A9
+route add -net 10.49.20.16 netmask 255.255.255.252 gw 10.49.20.34	#A20
+```
+
+- Denken
+
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.49.73.53	#default A8,A7
+```
+
+- Heiter
+
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.49.36.1	#default A18,A16
+```
+
+- Lawine
+
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.49.40.1	#default A17,A16
+route add -net 10.49.32.0 netmask 255.255.252.0 gw 10.49.36.3	#A18
+```
+
+- Linie
+
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.49.50.1	#default A15,A19,A17
+route add -net 10.49.36.0 netmask 255.255.255.192 gw 10.49.40.2	#A16
+route add -net 10.49.32.0 netmask 255.255.252.0 gw 10.49.40.2	#A18
+```
+
+- Lugner
+
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.49.69.1	#default A14,A21,A13
+```
+
+- Eisen
+
+```
+route add -net 0.0.0.0 netmask 0.0.0.0 gw 10.49.73.49	#default A11,A10,A12,A13,A15
+route add -net 10.49.36.0 netmask 255.255.255.192 gw 10.49.50.2	#A16
+route add -net 10.49.32.0 netmask 255.255.252.0 gw 10.49.50.2	#A18
+route add -net 10.49.40.0 netmask 255.255.255.252 gw 10.49.50.2	#A17
+route add -net 10.49.48.0 netmask 255.255.254.0 gw 10.49.50.2	#A19
+route add -net 10.49.64.0 netmask 255.255.252.0 gw 10.49.69.2	#A14
+route add -net 10.49.68.0 netmask 255.255.255.0 gw 10.49.69.2	#A21
+```
+
+- Aura
+
+```
+#eth1
+route add -net 10.49.0.0 netmask 255.255.248.0 gw 10.49.73.46		#A1
+route add -net 10.49.8.0 netmask 255.255.255.252 gw 10.49.73.46		#A2
+route add -net 10.49.16.0 netmask 255.255.252.0 gw 10.49.73.46		#A4
+route add -net 10.49.20.0 netmask 255.255.255.248 gw 10.49.73.46	#A9
+route add -net 10.49.20.16 netmask 255.255.255.252 gw 10.49.73.46	#A20
+route add -net 10.49.20.32 netmask 255.255.255.252 gw 10.49.73.46	#A5
+route add -net 10.49.73.0 netmask 255.255.255.224 gw 10.49.73.46	#A3
+
+#eth2
+route add -net 10.49.72.0 netmask 255.255.255.0 gw 10.49.73.54	#A8
+
+#eth3
+route add -net 10.49.73.32 netmask 255.255.255.248 gw 10.49.73.50	#A10
+route add -net 10.49.73.40 netmask 255.255.255.252 gw 10.49.73.50	#A12
+route add -net 10.49.69.0 netmask 255.255.255.252 gw 10.49.73.50	#A13
+route add -net 10.49.64.0 netmask 255.255.252.0 gw 10.49.73.50		#A14
+route add -net 10.49.68.0 netmask 255.255.255.0 gw 10.49.73.50		#A21
+route add -net 10.49.50.0 netmask 255.255.255.252 gw 10.49.73.50	#A15
+route add -net 10.49.48.0 netmask 255.255.254.0 gw 10.49.73.50		#A19
+route add -net 10.49.40.0 netmask 255.255.255.252 gw 10.49.73.50	#A17
+route add -net 10.49.36.0 netmask 255.255.255.192 gw 10.49.73.50	#A16
+route add -net 10.49.32.0 netmask 255.255.252.0 gw 10.49.73.50		#A18
+```
