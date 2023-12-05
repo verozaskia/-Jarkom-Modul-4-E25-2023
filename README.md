@@ -25,6 +25,7 @@ Menentukan jumlah subnet pada topologi.
 Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet.
 
 | Subnet | Jumlah IP | Netmask |
+| --- | --- | --- |
 | A1 | 1023 | /21 |
 | A2 | 2 | /30 |
 | A3 | 25 | /27 |
@@ -61,6 +62,7 @@ Menentukan jumlah subnet pada topologi.
 Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet.
 
 | Subnet | Jumlah IP | Netmask |
+| --- | --- | --- |
 | A1 | 1023 | /21 |
 | A2 | 2 | /30 |
 | A3 | 25 | /27 |
