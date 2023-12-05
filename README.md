@@ -9,5 +9,6 @@ Berikut adalah laporan resmi untuk pengerjaan Praktikum Modul 4 Subnetting dan R
 # Daftar Isi
 [VLSM](#VLSM)
 - [Hasil](#hasil)
+
 [CIDR](#CIDR)
 - [Hasil](#hasil)
