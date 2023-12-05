@@ -49,6 +49,16 @@ Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet.
 | A21 | 250 | /24 |
 | Total | 4255 | /19 |
 
+### Tree VLSM
+
+Setelah itu, lakukan pembagian IP untuk VLSM dengan melakukan pembuatan tree
+
+Dari Tree di atas akan mendapat pembagian IP sebagai berikut
+
+![a3](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/043a587e-4ab3-435e-99e0-a5d36a71b659)
+
+
+## Configuration VLSM
 
 ## Dokumentasi Pengerjaan CIDR di GNS3
 
@@ -59,11 +69,11 @@ Menentukan rute dan jumlah subnet pada topologi.
 
 Setelah menentukan rute dan jumlah subnet, lakukan Penggabungan rute hingga menjadi satu kesatuan agar dapat dibuat pembagian IP CIDR
 
-![gabung3](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/dfd23ad2-60d2-4113-b691-73ab50f23adb)
+![Gabung1](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/9312d4d4-5690-4af8-b0a7-d3653142ab3b)
 
 ![gabung2](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/7588c61a-8c3f-483c-9f72-a685fb809170)
 
-![Gabung1](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/9312d4d4-5690-4af8-b0a7-d3653142ab3b)
+![gabung3](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/dfd23ad2-60d2-4113-b691-73ab50f23adb)
 
 #### Hasil Penggabungan
 
@@ -95,3 +105,15 @@ Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet.
 | A20 | 2 | /30 |
 | A21 | 250 | /24 |
 | Total | 4255 | /19 |
+
+### Tree CIDR
+
+Setelah mendapatkan penggabungan CIDR lakukan pembagian IP untuk CIDR dengan melakukan pembuatan tree untuk pembagian CIDR.
+
+Dari Tree di atas akan mendapat pembagian IP sebagai berikut
+
+![a1](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/aae2e2e0-b5a5-4dc3-9fbe-24fcdb79d2d5)
+
+![a2](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/95d7172b-d653-4708-b39e-58d03a757533)
+
+## Configuration CIDR
