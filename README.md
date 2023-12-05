@@ -108,7 +108,7 @@ Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet.
 
 ### Tree CIDR
 
-Setelah mendapatkan penggabungan CIDR lakukan pembagian IP untuk CIDR dengan melakukan pembuatan tree untuk pembagian CIDR.
+Setelah mendapatkan penggabungan CIDR, lakukan pembagian IP untuk CIDR dengan melakukan pembuatan tree
 
 ![Tree-CIDR drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/6287427d-c70c-41e9-b362-6bba8f12f1c8)
 
