@@ -20,7 +20,7 @@ Berikut adalah laporan resmi untuk pengerjaan Praktikum Modul 4 Subnetting dan R
 ### Subnetting VLSM
 Menentukan rute dan jumlah subnet pada topologi.
 
-![CIDR-Page-2 drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/1bd27f18-2003-48da-890e-69c87558d3f0)
+![CIDR-Page-2 drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/CIDR-Page-2.drawio.png)
 
 Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet.
 
@@ -55,7 +55,7 @@ Setelah itu, lakukan pembagian IP untuk VLSM dengan melakukan pembuatan tree
 
 Dari Tree di atas akan mendapat pembagian IP sebagai berikut
 
-![a3](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/043a587e-4ab3-435e-99e0-a5d36a71b659)
+![a3](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/a3.png)
 
 
 ## Configuration VLSM
@@ -65,19 +65,19 @@ Dari Tree di atas akan mendapat pembagian IP sebagai berikut
 ### Subnetting CIDR
 Menentukan rute dan jumlah subnet pada topologi.
 
-![CIDR-Page-2 drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/1bd27f18-2003-48da-890e-69c87558d3f0)
+![CIDR-Page-2 drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/CIDR-Page-2.drawio.png)
 
 Setelah menentukan rute dan jumlah subnet, lakukan Penggabungan rute hingga menjadi satu kesatuan agar dapat dibuat pembagian IP CIDR
 
-![Gabung1](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/9312d4d4-5690-4af8-b0a7-d3653142ab3b)
+![Gabung1](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/Gabung1.png)
 
-![gabung2](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/7588c61a-8c3f-483c-9f72-a685fb809170)
+![gabung2](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/gabung2.png)
 
-![gabung3](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/dfd23ad2-60d2-4113-b691-73ab50f23adb)
+![gabung3](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/gabung3.png)
 
 #### Hasil Penggabungan
 
-![CIDR drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/823a1954-7bff-4185-9e49-8cb9b7eb20b3)
+![CIDR drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/CIDR.drawio.png)
 
 Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet.
 
@@ -110,12 +110,12 @@ Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet.
 
 Setelah mendapatkan penggabungan CIDR, lakukan pembagian IP untuk CIDR dengan melakukan pembuatan tree
 
-![Tree-CIDR drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/6287427d-c70c-41e9-b362-6bba8f12f1c8)
+![Tree-CIDR drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/Tree-CIDR.drawio.png)
 
 Dari Tree di atas akan mendapat pembagian IP sebagai berikut
 
-![a1](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/aae2e2e0-b5a5-4dc3-9fbe-24fcdb79d2d5)
-![a2](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/dd1dce1d-188c-4a70-a5ed-f7085cd2194d)
+![a1](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/a1.png)
+![a2](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/a2.png)
 
 ## Configuration CIDR
 
@@ -655,23 +655,23 @@ route add -net 10.49.32.0 netmask 255.255.252.0 gw 10.49.73.50		#A18
 
 - Router Heiter melakukan ping untuk Router Fern dengan IP ``10.49.8.2`` dan Router Flamme dengan IP ``10.49.20.34``
 
-![1heiter](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/01fe309f-3031-4869-8410-4259335d0468)
+![1heiter](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/1heiter.png)
 
 ##### Client dengan Client
 
 - Client AppetitRegion melakukan ping untuk Client LaubHills dengan IP ``10.49.0.2`` dan Client GrobeForest dengan IP ``10.49.68.2``
 
-![2appet](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/212917db-2f6b-438d-ac58-26d1c9f780f7)
+![2appet](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/2appet.png)
 
 ##### Client dengan Router
 
 - Client SchwerMountains melakukan ping untuk Router Lugner dengan IP ``10.49.69.2`` dan Router Himmel dengan IP ``10.49.20.18``
 
-![3schwer](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/d3cee55c-b3a4-44db-9005-76e555d56df4)
+![3schwer](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/3schwer.png)
 
 ##### Router dengan Client
 
 - Router Denken melakukan ping untuk Client RoyalCapital dengan IP ``10.49.72.2`` dan Client RiegelCanyon dengan IP ``10.49.32.2``
 
-![4denken](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/108173647/b1d02bbd-d3df-4fd3-b6e6-b791981d49ca)
+![4denken](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/4denken.png)
 
