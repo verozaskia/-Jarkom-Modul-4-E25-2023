@@ -83,7 +83,14 @@ Dari Tree di atas akan mendapat pembagian IP sebagai berikut
 ### Eisen
 ![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/d5d69e46-873e-4ff5-a8f8-4a5ca73afaf1)
 
+### Linie
+![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/e88f780a-6cd2-45bd-855e-87f4d9851848)
 
+### Lawnine
+![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/8ea299ff-2dd1-481e-bffd-63a4df8ae8a3)
+
+### Heiter
+![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/d7bcf464-7b49-4e85-b43b-a2cb3ab142e2)
 
 ## Dokumentasi Pengerjaan CIDR di GNS3
 
