@@ -53,6 +53,8 @@ Menentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet.
 
 Setelah itu, lakukan pembagian IP untuk VLSM dengan melakukan pembuatan tree
 
+![Tree-VLSM drawio](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/Tree%20VLSM.drawio.png)
+
 Dari Tree di atas akan mendapat pembagian IP sebagai berikut
 
 ![a3](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/a3.png)
