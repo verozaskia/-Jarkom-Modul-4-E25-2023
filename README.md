@@ -683,25 +683,25 @@ route add -net 10.49.32.0 netmask 255.255.252.0 gw 10.49.73.50		#A18
 
 ### Testing
 
-##### Router dengan Router
+#### Router dengan Router
 
 - Router Heiter melakukan ping untuk Router Fern dengan IP ``10.49.8.2`` dan Router Flamme dengan IP ``10.49.20.34``
 
 ![1heiter](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/1heiter.png)
 
-##### Client dengan Client
+#### Client dengan Client
 
 - Client AppetitRegion melakukan ping untuk Client LaubHills dengan IP ``10.49.0.2`` dan Client GrobeForest dengan IP ``10.49.68.2``
 
 ![2appet](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/2appet.png)
 
-##### Client dengan Router
+#### Client dengan Router
 
 - Client SchwerMountains melakukan ping untuk Router Lugner dengan IP ``10.49.69.2`` dan Router Himmel dengan IP ``10.49.20.18``
 
 ![3schwer](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/3schwer.png)
 
-##### Router dengan Client
+#### Router dengan Client
 
 - Router Denken melakukan ping untuk Client RoyalCapital dengan IP ``10.49.72.2`` dan Client RiegelCanyon dengan IP ``10.49.32.2``
 
