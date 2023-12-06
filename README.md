@@ -146,9 +146,6 @@ Setelah mendapatkan penggabungan CIDR, lakukan pembagian IP untuk CIDR dengan me
 
 Dari Tree di atas akan mendapat pembagian IP sebagai berikut
 
-![IP1](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/IP1.png)
-![IP2](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/blob/main/img/IP2.png)
-
 ## Configuration CIDR
 
 ### Router
