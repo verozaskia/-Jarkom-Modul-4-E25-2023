@@ -62,6 +62,29 @@ Dari Tree di atas akan mendapat pembagian IP sebagai berikut
 
 ## Configuration VLSM
 
+### Aura
+![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/3eea46a8-8a11-493e-8fc6-c8bf22061190)
+
+### Frieren
+![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/6657bf96-1173-4e24-87b1-219ad4ec2dbf)
+
+### Flamme
+![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/9c50f924-98e5-4c09-a8a9-adc7b203f3e8)
+
+### Fern
+![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/0c635725-48cf-4f65-867b-341fbebf0340)
+
+### Himmel
+![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/8cfb68e1-91c1-41ce-a388-b71ea53447eb)
+
+### Denken
+![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/01af9708-0cc4-43cf-961d-302841237ce3)
+
+### Eisen
+![image](https://github.com/verozaskia/-Jarkom-Modul-4-E25-2023/assets/114855785/d5d69e46-873e-4ff5-a8f8-4a5ca73afaf1)
+
+
+
 ## Dokumentasi Pengerjaan CIDR di GNS3
 
 ### Subnetting CIDR
